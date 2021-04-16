@@ -23,3 +23,7 @@ numpy == 1.19.2
 # C:\Users\dfial\Documents\Tests_Environnements\Test_Env14\.ipynb_checkpoints\WidgetCameraCapture_transformCv2_DisplayWidget-checkpoint.ipynb: 1
 # C:\Users\dfial\Documents\Tests_Environnements\Test_Env14\WidgetCameraCapture_transformCv2_DisplayWidget.ipynb: 1
 opencv_contrib_python == 4.2.0.32
+
+# C:\Users\dfial\Documents\Tests_Environnements\Test_Env15\.ipynb_checkpoints\Iris_V3-checkpoint.ipynb: 67
+# C:\Users\dfial\Documents\Tests_Environnements\Test_Env15\Iris_V3.ipynb: 5
+scipy == 1.6.2
